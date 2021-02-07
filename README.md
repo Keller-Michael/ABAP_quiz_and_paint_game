@@ -35,4 +35,4 @@ Just enhance this [include](https://github.com/Keller-Michael/ABAP_quiz_and_pain
 * <number of correct anwser (1, 2 or 3)>
 ```
 
-Please check this [SAP Community blog](https://blogs.sap.com/2021/02/07/quiz-questions-f…z-and-paint-game/) about more questions and answers.
+Please check this [SAP Community blog](https://blogs.sap.com/2021/02/07/quiz-questions-for-abap-quiz-and-paint-game/) about more questions and answers.
