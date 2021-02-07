@@ -16,11 +16,23 @@ The game consists of a bunch of local classes in one report:
 
 * LCX_ERROR: for exception handling
 * LCL_SCREENSHOT: creates and saves screenshots
-* LCL_QUESTIONS: provides questions from from [include](https://github.com/Keller-Michael/ABAP_quiz_and_paint_game/blob/main/src/zqpg_questions_and_answers.prog.abap) 
+* LCL_QUESTIONS: provides questions from [include](https://github.com/Keller-Michael/ABAP_quiz_and_paint_game/blob/main/src/zqpg_questions_and_answers.prog.abap) 
 * LCL_SCREEN: screen handling is made with CL_SALV_TABLE
 * LCL_LOGIC: implements game logic
 * LCL_GAME: holds everything together
 
 ### More questions and answers
 
-Just enhance this [include](https://github.com/Keller-Michael/ABAP_quiz_and_paint_game/blob/main/src/zqpg_questions_and_answers.prog.abap). 
+Just enhance this [include](https://github.com/Keller-Michael/ABAP_quiz_and_paint_game/blob/main/src/zqpg_questions_and_answers.prog.abap). Here's an example:
+
+```
+* ### <question>
+*
+* <Answer 1>
+* <Answer 2>
+* <Answer 3>
+*
+* <number of correct anwser (1, 2 or 3)>
+```
+
+Please check this [SAP Community blog](https://blogs.sap.com/2021/02/07/quiz-questions-f…z-and-paint-game/) about more questions and answers.
